@@ -1,0 +1,14 @@
+D:\works\CSharp\codes & projects\projects\ProjectsC#WithOOP\MazeGame\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\works\CSharp\codes & projects\projects\ProjectsC#WithOOP\MazeGame\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\works\CSharp\codes & projects\projects\ProjectsC#WithOOP\MazeGame\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\works\CSharp\codes & projects\projects\ProjectsC#WithOOP\MazeGame\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\works\CSharp\codes & projects\projects\ProjectsC#WithOOP\MazeGame\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\works\CSharp\codes & projects\projects\ProjectsC#WithOOP\MazeGame\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\CSharp\codes & projects\projects\ProjectsC#WithOOP\MazeGame\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\works\CSharp\codes & projects\projects\ProjectsC#WithOOP\MazeGame\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\works\CSharp\codes & projects\projects\ProjectsC#WithOOP\MazeGame\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\works\CSharp\codes & projects\projects\ProjectsC#WithOOP\MazeGame\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\works\CSharp\codes & projects\projects\ProjectsC#WithOOP\MazeGame\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\works\CSharp\codes & projects\projects\ProjectsC#WithOOP\MazeGame\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\works\CSharp\codes & projects\projects\ProjectsC#WithOOP\MazeGame\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\works\CSharp\codes & projects\projects\ProjectsC#WithOOP\MazeGame\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
